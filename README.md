@@ -153,7 +153,7 @@ Modify the `initial_questions` array to **skip irrelevant questions** or **add u
     "question": "Did you have business expenses in 2025? (Betriebsausgaben)"
   }
 ]
-
+```
 #### **Customizing Deduction Priorities**
 
 Update specific_guidelines.priority_sections based on the user's situation:
